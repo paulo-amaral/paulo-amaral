@@ -35,3 +35,7 @@ I've a partneship with World Vision to develop and introduce a digital cash paym
 - 🤔 I’m looking for help with projects for digital inclusion, cash payments and chatbots to help small business during the Covid-19 pandemic.
 - ⚡ Fun fact: I like sci-fi movies and sci-fi TV shows.
 
+### My favorite repos
+
+👇 I have pinned some of my favorite posts below, take a look 👇
+
