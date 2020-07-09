@@ -37,5 +37,5 @@ I've a partneship with World Vision to develop and introduce a digital cash paym
 
 ### My favorite repos
 
-👇 I have pinned some of my favorite posts below, take a look 👇
+👇 I have pinned some of my favorite repositories below, take a look 👇
 
