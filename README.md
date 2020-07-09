@@ -15,17 +15,14 @@ I've a partneship with World Vision to develop and introduce a digital cash paym
 
 ### Personal Goals and core values :
 
-👨‍👩‍👧‍👦 Family
-
-💪 Integrity
-
-🧠 Learning
-
-🙌 Sharing knowledge
-
-✔ Doing more with less
-
-🙌 Embrace and Drive Change
+👨‍👩‍👧‍👦 Family<br>
+💪 Integrity<br>
+🧠 Learning<br>
+🙌 Sharing knowledge<br>
+✔ Doing more with less<br>
+🙌 Embrace and Drive Change<br>
+🔭 Beginner's mindset and curiosity<br>
+☑️ Challenge oriented<br>
 
 
 ### 🎙️ Activities 👯 
