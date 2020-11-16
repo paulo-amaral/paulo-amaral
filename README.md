@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm a Humanitarian maker and tech lover.
 Currently working hard to get my business up and running on various fronts.
-I've a partneship with World Vision to develop and introduce a digital cash payment system on TL's rural poor comunities. The project called (Kartaun Bele).
+I've a partneship with World Vision to develop and introduce a digital cash payment system on TL's rural poor communities.
 
 ### Personal Goals and core values :
 
