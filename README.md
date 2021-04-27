@@ -16,6 +16,7 @@ I've a partneship with World Vision to develop and introduce a digital cash paym
 
 
 ### 🎙️ Activities 👯 
+- 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste
 - 🔭 I’m currently working on TL's Court Of Appeals as a Senior ICT ADVISER / CTO at Otimizai.
 - 🌱 I’m currently learning about blockchain, cloud computing, automation tools, KYC, microfinance, Design Thinking, ML and Data Science.
 - 👯 I’m looking to collaborate on open source projects for social good.
