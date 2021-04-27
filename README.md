@@ -14,7 +14,6 @@ I've a partneship with World Vision to develop and introduce a digital cash paym
 🔭 Beginner's mindset and curiosity<br>
 ☑️ Challenge oriented<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎙️ Activities 👯 
 - 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste
@@ -31,12 +30,3 @@ I've a partneship with World Vision to develop and introduce a digital cash paym
 [![Medium Badge](https://img.shields.io/badge/-@paulo_amaral-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@paulo_amaral/)](https://medium.com/paulo_amaral/)
 [![Gmail Badge](https://img.shields.io/badge/-paulo.security@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo.security@gmail.com)](mailto:paulo.security@gmail.com)
 ---
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux)
-![](https://img.shields.io/badge/Container-Docker-informational?style=flat-square&logo=docker) 
-![](https://img.shields.io/badge/Orcherstrator-Kubernetes-informational?style=flat-square&logo=kubernetes) 
-![](https://img.shields.io/badge/CI/CD-Gitlab-informational?style=flat-square-square&logo=gitlab) 
-![](https://img.shields.io/badge/Automation-Ansible-informational?style=flat-square-square&logo=ansible) 
-![](https://img.shields.io/badge/Dev-Python-informational?style=flat-square-square&logo=python) 
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat-square-square&logo=aws) 
-![](https://img.shields.io/badge/Scripting-Bash-informational?style=flat-square-square&logo=bash)
