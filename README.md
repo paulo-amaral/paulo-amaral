@@ -3,7 +3,7 @@ I'm a Humanitarian maker and tech lover.
 Currently working hard to get my business up and running on various fronts.
 I've a partneship with World Vision to develop and introduce a digital cash payment system on TL's rural poor communities.
 
-### Personal Goals and core values :
+## Personal Goals and core values :
 
 👨‍👩‍👧‍👦 Family<br>
 💪 Integrity<br>
@@ -15,7 +15,8 @@ I've a partneship with World Vision to develop and introduce a digital cash paym
 ☑️ Challenge oriented<br>
 
 
-### 🎙️ Activities 👯 
+
+## 🎙️ Activities 👯 
 - 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste
 - 🔭 I’m currently working on TL's Court Of Appeals as a Senior ICT ADVISER / CTO at Otimizai.
 - 🌱 I’m currently learning about blockchain, cloud computing, automation tools, KYC, microfinance, Design Thinking, ML and Data Science.
@@ -30,3 +31,14 @@ I've a partneship with World Vision to develop and introduce a digital cash paym
 [![Medium Badge](https://img.shields.io/badge/-@paulo_amaral-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@paulo_amaral/)](https://medium.com/paulo_amaral/)
 [![Gmail Badge](https://img.shields.io/badge/-paulo.security@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo.security@gmail.com)](mailto:paulo.security@gmail.com)
 ---
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat-square&logo=docker) 
+![](https://img.shields.io/badge/Orcherstrator-Kubernetes-informational?style=flat-square&logo=kubernetes) 
+![](https://img.shields.io/badge/Orcherstrator-Openshift-informational?style=flat-square&logo=openshift) 
+![](https://img.shields.io/badge/CI/CD-Gitlab-informational?style=flat-square-square&logo=gitlab) 
+![](https://img.shields.io/badge/Automation-Ansible-informational?style=flat-square-square&logo=ansible) 
+![](https://img.shields.io/badge/Dev-Python-informational?style=flat-square-square&logo=python) 
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square-square&logo=aws) 
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat-square-square&logo=azure) 
+![](https://img.shields.io/badge/Scripting-Bash-informational?style=flat-square-square&logo=bash)
