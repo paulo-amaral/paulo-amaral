@@ -33,7 +33,5 @@ I've a partneship with World Vision to develop and introduce a digital cash paym
 <a href="https://www.facebook.com/paulo.s.amaral" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/21zui7c7fuo2whaddtcn7wykq" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/pauloamaral" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-[![Twitter Badge](https://img.shields.io/badge/-@paulo_s_amaral-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/paulo_s_amaral)](https://twitter.com/paulo_s_amaral)
-[![Medium Badge](https://img.shields.io/badge/-@paulo_amaral-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@paulo_amaral/)]
-(https://medium.com/paulo_amaral/)
+<a href="https://twitter.com/paulo_s_amaral" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 </div>
