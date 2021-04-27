@@ -3,18 +3,6 @@ I'm a Humanitarian maker and tech lover.
 Currently working hard to get my business up and running on various fronts.
 I've a partneship with World Vision to develop and introduce a digital cash payment system on TL's rural poor communities.
 
-## Personal Goals and core values :
-
-👨‍👩‍👧‍👦 Family<br>
-💪 Integrity<br>
-🧠 Learning<br>
-🙌 Sharing knowledge<br>
-✔ Doing more with less<br>
-🙌 Embrace and Drive Change<br>
-🔭 Beginner's mindset and curiosity<br>
-☑️ Challenge oriented<br>
-
-
 ## 🎙️ Activities 👯 
 - 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste
 - 🔭 I’m currently working on TL's Court Of Appeals as a Senior ICT ADVISER / CTO at Otimizai.
