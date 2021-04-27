@@ -3,7 +3,7 @@ I'm a Humanitarian maker and tech lover.
 Currently working hard to get my business up and running on various fronts.
 I've a partneship with World Vision to develop and introduce a digital cash payment system on TL's rural poor communities.
 
-## 🎙️ Activities 👯 
+## 🎙️ Activities
 - 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste
 - 🔭 I’m currently working on TL's Court Of Appeals as a Senior ICT ADVISER / CTO at Otimizai.
 - 🌱 I’m currently learning about blockchain, cloud computing, automation tools, KYC, microfinance, Design Thinking, ML and Data Science.
