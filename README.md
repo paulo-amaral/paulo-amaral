@@ -1,7 +1,9 @@
 # Hi there 👋
-I'm a Humanitarian maker and tech lover.
+I'm a Humanitarian maker, tech lover, productivity nerd and dad.
 Currently working hard to get my business up and running on various fronts.
-I've a partneship with World Vision to develop and introduce a digital cash payment system on TL's rural poor communities.
+Ny current projects:
+- I've a partneship with World Vision to develop and introduce a digital cash payment system on TL's rural poor communities.
+- Parneship with WFP(World Fund Programme) TL's to implement a pilot project to showcase the efficiency of cash transfer through the utilization of cutting-edge Iris verification technology. 
 
 ## 🎙️ Activities
 - 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste
