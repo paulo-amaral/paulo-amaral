@@ -8,7 +8,8 @@ My current projects:
 
 ## 🎙️ Activities
 - 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste
-- 🔭 I’m currently working on TL's Court Of Appeals as a Senior ICT ADVISER / CTO at Otimizai.
+- 🔭 I’m currently working at UNDP as a Digital Transformation Specialist.
+- Previosly I worked on TL's Court Of Appeals as a Senior ICT ADVISER / CTO at Otimizai.
 - 🌱 I’m currently learning about blockchain, cloud computing, automation tools, KYC, microfinance, Design Thinking, ML and Data Science.
 - 👯 I’m looking to collaborate on open source projects for social good.
 - 🤔 I’m looking for help with projects for digital inclusion, cash payments and chatbots to help small business during the Covid-19 pandemic.
