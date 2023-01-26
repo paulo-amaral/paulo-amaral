@@ -1,10 +1,6 @@
 # Hi there 👋
 I'm a Humanitarian maker, tech lover, productivity nerd and dad.
 Currently working hard to get my business up and running on various fronts.
-My current projects:
-- I've a partneship with World Vision to develop and introduce a digital cash payment system on TL's rural poor communities.
-- Parneship with WFP(World Fund Programme) TL's to implement a pilot project to showcase the efficiency of cash transfer through the utilization of cutting-edge Iris verification technology. 
-- Bycoders - Growth Journey -  Partneship project that teaches programming to young people in developing countries.
 
 ## 🎙️ Activities
 - 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste
