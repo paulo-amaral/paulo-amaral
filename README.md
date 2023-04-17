@@ -1,6 +1,5 @@
 # Hi there 👋
 I'm a Humanitarian maker, tech lover, productivity nerd and dad.
-Currently working hard to get my business up and running on various fronts.
 
 ## 🎙️ Activities
 - 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste
