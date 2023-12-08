@@ -3,11 +3,10 @@ I'm a Humanitarian maker, tech lover, productivity nerd and dad.
 
 ## 🎙️ Activities
 - 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste
-- 🔭 I’m currently working at UNDP as a Digital Transformation Specialist.
-- Previosly I worked on TL's Court Of Appeals as a Senior ICT ADVISER / CTO at Otimizai.
+- 🔭 I’m currently working at CATALPA as an Data Analyst.
+- Previosly I worked on TL's Court Of Appeals as a Senior ICT ADVISER/CTO at Otimizai/UNDP Digital Transformation Specialist/Consultant for The Minister of Education.
 - 🌱 I’m currently learning about blockchain, cloud computing, automation tools, KYC, microfinance, Design Thinking, ML and Data Science.
 - 👯 I’m looking to collaborate on open source projects for social good.
-- 🤔 I’m looking for help with projects for digital inclusion, cash payments and chatbots to help small business during the Covid-19 pandemic.
 - ⚡ Fun fact: I like sci-fi movies and sci-fi TV shows.
 
 
