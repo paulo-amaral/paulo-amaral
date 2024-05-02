@@ -1,12 +1,11 @@
 # Hi there 👋
-I'm a Humanitarian maker, tech lover, productivity nerd and dad.
+I'm a Humanitarian maker, tech lover, productivity nerd, and dad.
 
 ## 🎙️ Activities
 - 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste
-- 🔭 I’m currently working at CATALPA as an Data Analyst.
-- Previosly I worked on TL's Court Of Appeals as a Senior ICT ADVISER/CTO at Otimizai/UNDP Digital Transformation Specialist/Consultant for The Minister of Education.
-- 🌱 I’m currently learning about blockchain, cloud computing, automation tools, KYC, microfinance, Design Thinking, ML and Data Science.
-- 👯 I’m looking to collaborate on open source projects for social good.
+- 🔭  I’m currently working on ...a secret idea to dominate the world!
+- 🌱 I’m learning about blockchain, CI/CD, DevOps, HCD, cloud computing, automation tools, KYC, Biometrics, microfinance, Design Thinking, ML, and Data Science.
+- 👯 I’m looking to collaborate on open-source projects for social good.
 - ⚡ Fun fact: I like sci-fi movies and sci-fi TV shows.
 
 
