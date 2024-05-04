@@ -1,17 +1,18 @@
 # Hi there 👋
-I'm a Humanitarian maker, tech lover, productivity nerd, and dad.
+I'm a Humanitarian maker, tech lover, challenge lover, productivity nerd, and dad. 
 
-## 🎙️ Activities
+
+## 🎙️A little more
 - 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste
-- 🔭  I’m currently working on ...a secret idea to dominate the world!
-- 🌱 I’m learning about blockchain, CI/CD, DevOps, HCD, cloud computing, automation tools, KYC, Biometrics, microfinance, Design Thinking, ML, and Data Science.
+- 🔭 I’m working on ...a secret idea or plan to dominate the world!
+- 🌱 I’m learning about tech things that capture my interest.
 - 👯 I’m looking to collaborate on open-source projects for social good.
 - ⚡ Fun fact: I like sci-fi movies and sci-fi TV shows.
 
 
 ### 💬 I'd like to hear you on my networks, if you want to see my professional and funny side: 📫
 
-<i>Follow me around the web:</i><br>
+<i>Contact me:</i><br>
   
 <a href="https://www.linkedin.com/in/paulosergioamaral" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/paulo_s_amaral" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
