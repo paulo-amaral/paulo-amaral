@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a Humanitarian maker, tech lover, challenge lover, productivity nerd, and dad. 
+I'm a Humanitarian maker, tech lover, challenge lover, productivity nerd, and dad and I believe we can make a positive impact in society with code, be it in your local community or on a bigger scale!
 
 
 ## 🎙️A little more
